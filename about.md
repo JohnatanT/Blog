@@ -7,7 +7,7 @@ title: Sobre Mim
   Chega mais! Bem Vindo ao meu Blog e espero que você goste bastante do que vai achar por aqui.
 </p>
 
-Sou um programador arretado que ama código opensorce e PHP. Não ache que desisto fácil, póis meu sonho é ser um dos melhores desenvolvedores full stack! Então borá lá. Aqui tem uns código brabo meu [GitHub](https://github.com/JohnatanT).
+Sou um programador arretado que ama código opensorce e PHP. Futuro Bacharel em Sistemas e Mídias Digitais pela Universidade Federal do Ceará. Não ache que desisto fácil, póis meu sonho é ser um dos melhores desenvolvedores full stack! Então borá lá. Aqui tem uns código brabo, meu [GitHub](https://github.com/JohnatanT).
 
 Onde mais pode me achar?
 
