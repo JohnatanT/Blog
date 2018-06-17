@@ -24,7 +24,7 @@ Eis que acho minha próxima solução.
 
 ### Vagrant
 
-Já pensou em não ter que instalar um CD com uma ISO de um sistema operacional para ter que usá-lo? Bem, com o Vagrant você pode fazer isso, ele pode rodar um sistema operacional que desejar em background e não preicsar configurá-lo. Você pode criar um arquivo de configuração dizendo qual sistema quer e o que vai ser instalado e configurado nele, depois só rodar o comando: ` Vagrant up `.
+Já pensou em não ter que instalar um CD com uma ISO de um sistema operacional para ter que usá-lo? Bem, com o Vagrant você pode fazer isso, ele pode rodar um sistema operacional que desejar em background e não preicsar configurá-lo. Você pode criar um arquivo de configuração dizendo qual sistema quer e o que vai ser instalado e configurado nele, depois só rodar o comando: `Vagrant up`.
 
 Pronto, sua máquina está no ar e não precisou nem ver nada de instalação. Agora basta acessar sua máquina via SSH.
 
@@ -42,16 +42,16 @@ Com o Docker, a utilização de containers ficou bem mais fácil, agora você po
 
 Por exemplo o Laradock vem com: 
 
-1.PHP
-2.NGINX
-3.APACHE2
-4.MySQL
-5.PostegreSQL
-6.PHP-FPM
-7.PHPMyAdmin
-8.PGAdmin
+1. PHP
+2. NGINX
+3. APACHE2
+4. MySQL
+5. PostegreSQL
+6. PHP-FPM
+7. PHPMyAdmin
+8. PGAdmin
 
-E assim por diante, bastante coisa. Para usar um ambiente com `PHP`, `Apache2`, `MySQL`. Basta rodar o comando dentro da pasta do Laradock: `docker-compose up -d apache2 mysql`.
+E bem mais coisas. Para usar um ambiente com `PHP`, `Apache2`, `MySQL`. Basta rodar o comando dentro da pasta do Laradock: `docker-compose up -d apache2 mysql`.
 
 Pronto! Agora você tem os containers rodando em fração de segundos e sem nem sentir no seu computador. Além disso, fazer um deploy fica bem mais fácil para seu servidor.
 
